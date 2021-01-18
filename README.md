@@ -10,7 +10,8 @@ Grace Hanlon
 Hayley Krippner
 He ZhengJingRui
 Nathan Huynh
-2020
+
+Year: 2020
 
 Installing and running the JAR:
 1. Ensure JDK 11 or higher is installed on the machine
